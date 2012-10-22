@@ -24,7 +24,7 @@ class SimpleCartPage_Controller extends Page_Controller {
 			'simplecart/vendor/simplecart-js/simpleCart'
 				.(Director::isLive() ? '.min' : '').'.js',
 			'simplecart/vendor/jquery.path/jquery.path.js',
-			'simplecart/js/simpleCart-utils.js'
+			'simplecart/vendor/simplecart-utils/simpleCart-utils.js'
 		);
 	}
 
