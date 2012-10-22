@@ -4,3 +4,6 @@
 [submodule "vendor/simplecart-utils"]
 	path = vendor/simplecart-utils
 	url = git@github.com:simonwade/simplecart-utils.git
+[submodule "vendor/jquery.path"]
+	path = vendor/jquery.path
+	url = git://github.com/weepy/jquery.path.git
