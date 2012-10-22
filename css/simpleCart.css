@@ -18,7 +18,7 @@
 }
 .cartInfo {
 	width:60px;
-	background:#EFF1F4 url(../img/sprite.png) -218px -2px;
+	background:#EFF1F4 url(/simplecart/img/sprite.png) -218px -2px;
 	font-size:13px;
 	font-weight:bold;
 	color:#6e6e6e;
@@ -253,7 +253,7 @@
 	position: absolute;
 	width: 144px;
 	height: 41px;
-	background: url(../img/bgTooltip.png);
+	background: url(/simplecart/img/bgTooltip.png);
 	top: -30px;
 	left: 50%;
 	margin-left: -71px;
