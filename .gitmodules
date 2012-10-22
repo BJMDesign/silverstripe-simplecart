@@ -1,0 +1,6 @@
+[submodule "vendor/simplecart-js"]
+	path = vendor/simplecart-js
+	url = https://github.com/wojodesign/simplecart-js
+[submodule "vendor/simplecart-utils"]
+	path = vendor/simplecart-utils
+	url = git@github.com:simonwade/simplecart-utils.git
